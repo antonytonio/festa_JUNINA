@@ -1,0 +1,21 @@
+body {
+	background: grey;
+}
+
+header {
+	background: #f9db4a;
+	padding: 20px 0;
+}
+
+.junina {
+	position: relative;
+	width: 940;
+	margin: 0 auto;
+}
+
+img {
+	border: 5px solid #a20202;
+	border-radius: 20px;
+	display: inline-block;
+	margin-left: 350px;
+}
